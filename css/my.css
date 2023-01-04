@@ -29,9 +29,7 @@ li a:hover {
     .loginbtn {
         width: 223px !important;
     }
-    .btncbea {
-        width: 260px !important;
-    }
+    
 }
 
 @media (min-width: 375px) {
@@ -44,9 +42,7 @@ li a:hover {
     .loginbtn {
         width: 280px !important;
     }
-    .btncbea {
-        width: 320px !important;
-    }
+    
 }
 
 @media (min-width: 425px) {
@@ -59,9 +55,7 @@ li a:hover {
     .loginbtn {
         width: 330px !important;
     }
-    .btncbea {
-        width: 370px !important;
-    }
+    
 }
 
 @media (min-width: 768px) {
@@ -71,9 +65,7 @@ li a:hover {
     footer {
         height: 430px !important;
     }
-    .btncbea {
-        width: 330px !important;
-    }
+    
 }
 
 @media (min-width: 992px) {
@@ -83,9 +75,7 @@ li a:hover {
     footer {
         height: 440px !important;
     }
-    .btncbea {
-        width: 275px !important;
-    }
+    
 }
 
 @media (min-width: 1200px) {
@@ -95,14 +85,10 @@ li a:hover {
     footer {
         height: 300px !important;
     }
-    .btncbea {
-        width: 275px !important;
-    }
+   
 }
 @media (min-width: 1440px) {
-    .btncbea {
-        width: 300px !important;
-    }
+
 }
 
 
